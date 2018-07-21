@@ -1,0 +1,1 @@
+CRUD simples utilizando Asp.Net MVC Core, Entity Framework e Migrations.

@@ -1,0 +1,11 @@
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\bin\Debug\netcoreapp2.0\WebAppLab.deps.json
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\bin\Debug\netcoreapp2.0\WebAppLab.runtimeconfig.json
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\bin\Debug\netcoreapp2.0\WebAppLab.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\bin\Debug\netcoreapp2.0\WebAppLab.dll
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\bin\Debug\netcoreapp2.0\WebAppLab.pdb
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\obj\Debug\netcoreapp2.0\WebAppLab.csprojAssemblyReference.cache
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\obj\Debug\netcoreapp2.0\WebAppLab.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\obj\Debug\netcoreapp2.0\WebAppLab.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\obj\Debug\netcoreapp2.0\WebAppLab.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\obj\Debug\netcoreapp2.0\WebAppLab.dll
+C:\Users\Leandro\source\repos\WebAppLab\WebAppLab\obj\Debug\netcoreapp2.0\WebAppLab.pdb
